@@ -5,7 +5,7 @@
 
 [**Drivers for MEMS sensors**](https://www.st.com/en/embedded-software/drivers-for-mems.html) from **STMicroelectronics** are designed to reduce integration effort, time and cost.
 
-The offer for **open source drivers and configuration examples** covers the entire [**MEMS sensors**](www.st.com/MEMS) product portfolio and targets a wide range of solutions, from platform-specific drivers to platform-independent low-level drivers along with use-case examples.
+The offer for **open source drivers and configuration examples** covers the entire [**MEMS sensors**](https://www.st.com/en/mems-and-sensors.html?sc=MEMS) product portfolio and targets a wide range of solutions, from platform-specific drivers to platform-independent low-level drivers along with use-case examples.
 
 ### Description
 
@@ -13,7 +13,7 @@ This repository is a simple Readme describing all MEMS-related GitHub projects, 
 
 This new publication channel will provide broader added value:
 
-- As a complement to technical documentation available on [st.com](www.st.com/MEMS)
+- As a complement to technical documentation available on [st.com](https://www.st.com/en/mems-and-sensors.html?sc=MEMS)
 - As a delivery option ([Git](https://git-scm.com/)) for customers to download and manage drivers and configuration examples for **STMicroelectronics MEMS sensors**.
 - Direct communication between developers, thanks to the Issues feedback option. **Caution** : *only software-related questions will be taken into account. Any other subject must be submitted to the [ST Community](https://community.st.com/s/) forum.*
 
