@@ -23,8 +23,8 @@ This new publication channel will provide broader added value:
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [STMems_Android_Sensor_HAL_IIO ](https://github.com/STMicroelectronics/STMems_Android_Sensor_HAL_IIO) | Android sensor HAL for MEMS motion and environmental sensors (Industrial I/O framework) |
 | [STMems_Android_Sensor_HAL_Input ](https://github.com/STMicroelectronics/STMems_Android_Sensor_HAL_Input) | Android sensor HAL for MEMS motion and environmental sensors (Input framework) |
-| [STMems_Linux_IIO_drivers ](https://github.com/STMicroelectronics/STMems_Linux_IIO_drivers) | Linux device drivers for MEMS motion and environmental sensors (Industrial I/O framework) |
-| [STMems_Linux_Input_drivers ](https://github.com/STMicroelectronics/STMems_Linux_Input_drivers) | Linux device drivers for MEMS motion and environmental sensors (Input framework) |
+| [st-mems-android-linux-drivers-iio ](https://github.com/STMicroelectronics/st-mems-android-linux-drivers-iio) | Linux device drivers for MEMS motion and environmental sensors (Industrial I/O framework) |
+| [st-mems-android-linux-drivers-input ](https://github.com/STMicroelectronics/st-mems-android-linux-drivers-input) | Linux device drivers for MEMS motion and environmental sensors (Input framework) |
 | [STMems_Standard_C_drivers ](https://github.com/STMicroelectronics/STMems_Standard_C_drivers) | Standard C platform-independent drivers for MEMS motion and environmental sensors |
 | [STMems_Finite_State_Machine ](https://github.com/STMicroelectronics/STMems_Finite_State_Machine) | Configuration examples for embedded Finite State Machine feature |
 | [STMems_Machine_Learning_Core ](https://github.com/STMicroelectronics/STMems_Machine_Learning_Core) | Configuration examples for embedded Machine Learning Core feature |
