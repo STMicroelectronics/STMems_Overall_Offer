@@ -27,6 +27,7 @@ This new publication channel will provide broader added value:
 | [STMems_Standard_C_drivers ](https://github.com/STMicroelectronics/STMems_Standard_C_drivers) | Standard C platform-independent drivers for MEMS motion and environmental sensors |
 | [STMems_Finite_State_Machine ](https://github.com/STMicroelectronics/STMems_Finite_State_Machine) | Configuration examples for embedded Finite State Machine feature |
 | [STMems_Machine_Learning_Core ](https://github.com/STMicroelectronics/STMems_Machine_Learning_Core) | Configuration examples for embedded Machine Learning Core feature |
+| [st-mems-ispu ](https://github.com/STMicroelectronics/st-mems-ispu) | Examples, tutorials, and other development resources for embedded Intelligent Sensor Processing Unit |
 
 ### Communication and support
 
