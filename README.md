@@ -25,8 +25,8 @@ This new publication channel will provide broader added value:
 | [st-mems-android-linux-drivers-iio ](https://github.com/STMicroelectronics/st-mems-android-linux-drivers-iio) | Linux device drivers for MEMS motion and environmental sensors (Industrial I/O framework) |
 | [st-mems-android-linux-drivers-input ](https://github.com/STMicroelectronics/st-mems-android-linux-drivers-input) | Linux device drivers for MEMS motion and environmental sensors (Input framework) |
 | [STMems_Standard_C_drivers ](https://github.com/STMicroelectronics/STMems_Standard_C_drivers) | Standard C platform-independent drivers for MEMS motion and environmental sensors |
-| [STMems_Finite_State_Machine ](https://github.com/STMicroelectronics/STMems_Finite_State_Machine) | Configuration examples for embedded Finite State Machine feature |
-| [STMems_Machine_Learning_Core ](https://github.com/STMicroelectronics/STMems_Machine_Learning_Core) | Configuration examples for embedded Machine Learning Core feature |
+| [st-mems-finite-state-machine ](https://github.com/STMicroelectronics/st-mems-finite-state-machine) | Examples and tutorials for the FSM, a dedicated core for finite state machine processing embedded in STMicroelectronics MEMS sensors |
+| [st-mems-machine-learning-core ](https://github.com/STMicroelectronics/st-mems-machine-learning-core) | Examples, tutorials, and tools for the MLC, a dedicated core for machine learning processing embedded in STMicroelectronics MEMS sensors |
 | [st-mems-ispu ](https://github.com/STMicroelectronics/st-mems-ispu) | Examples, tutorials, and other development resources for embedded Intelligent Sensor Processing Unit |
 
 ### Communication and support
